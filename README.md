@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1>👋 Introduction</h1>
+Hello! My name is Ben, more known as Quartz. I'm a student & self-taught developer from Belgium.
+The things that keeps me busy is creating public resources & servers.
 
-<!--
-**DevQuartz/DevQuartz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>🧾 Resources</h1>
+<li><a href="https://www.mc-market.org/resources/16612/">📕 Hestiacore</a></li>
+<li><a href="https://www.mc-market.org/resources/14893/">📗 nCore</a></li>
+<li><a href="https://www.mc-market.org/resources/13951/">📘 nHub</a></li>
+<li><a href="https://www.mc-market.org/resources/15181/">📙 nQueue</a></li>
 
-Here are some ideas to get you started:
+<h1>🚀 Languages/API's</h1>
+<li>Java</li>
+<li>JDA API</li>
+<li>Spigot</li>
+<li>BungeeCord</li>
+<li>Vaadin</li>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>✨ Upcoming Project(s)</h1>
+I'm currently working on a minigame server (1.16.5) TheTourney.
+This will be my first self-coded server in my carreer as a developer.
+
+<h1>📩 Contact Me</h1>
+Discord: Quartz#2809
