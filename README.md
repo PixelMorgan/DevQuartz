@@ -15,9 +15,5 @@ The things that keeps me busy is creating public resources & servers.
 <li>BungeeCord</li>
 <li>Vaadin</li>
 
-<h1>✨ Upcoming Project(s)</h1>
-I'm currently working on a minigame server (1.16.5) TheTourney.
-This will be my first self-coded server in my carreer as a developer.
-
 <h1>📩 Contact Me</h1>
 Discord: Quartz#2809
